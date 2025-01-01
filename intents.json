@@ -1,7 +1,7 @@
 {"intents": [
     {
       "tag" : "greetings",
-      "patterns" : ["Hello","Hey","Hi","Good Day","Greetings"],
+      "patterns" : ["Hello","Hey","Hi","Good Day","Greetings","Hii","hi","hii"],
       "responses" : ["Hello!","Hey","What Can I do for you?"]
     },
   
